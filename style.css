@@ -170,12 +170,12 @@ div > iframe {
 aside {
     background-color: var(--cor03);
     margin: auto;
-    width: 100%;
+    width: 90%;
     border-radius: 10px;
 }
 
 aside h1 {
-    font: bold 3.5em var(--font01);
+    font: bold 2em var(--font01);
     background-color: var(--cor00);
     border-radius: 10px 10px 0px 0px;
    
@@ -183,7 +183,7 @@ aside h1 {
     color: white;
 }
 aside > p {
-    font-size: 1.2em;
+    font-size: 1em;
     padding: 10px;
     padding: 25px;
     text-indent: 50px;
@@ -195,7 +195,7 @@ ul {
     padding-left: 23px;
     list-style-type: "\2714\00A0\00A0";
     list-style-position: inside;
-    text-align: justify;
+    
     columns: 2;
 }
 

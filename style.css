@@ -170,7 +170,7 @@ div > iframe {
 aside {
     background-color: var(--cor03);
     margin: auto;
-    width: 90%;
+    width: 100%;
     border-radius: 10px;
 }
 

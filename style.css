@@ -56,7 +56,8 @@ header > h1 {
 header > p {
     max-width: 1000px;
     margin: auto;
-    padding-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 50px;
     font: normal 1.8em var(--font00);
 }
 
